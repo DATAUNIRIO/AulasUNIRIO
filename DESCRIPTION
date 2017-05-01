@@ -2,14 +2,15 @@ Package: AulasUNIRIO
 Type: Package
 Title: AulasUNIRIO: An R package containing some functions and datasets
         to teach statistics
-Version: 0.1.0
+Version: 0.1.1
 Author: Steven Dutt Ross
 Maintainer: Steven Dutt Ross <steven.ross@uniriotec.br>
 Description: AulasUNIRIO: An R package containing some functions and datasets to teach statistics
+Depends: R (>= 3.1.0), WDI
 License: MIT
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.0.1.9000
 URL: https://dataunirio.github.io/
 NeedsCompilation: no
-Packaged: 2017-04-29 23:45:22 UTC; Hp
+Packaged: 2017-05-01 20:12:05 UTC; Hp

@@ -10,7 +10,7 @@ bd(CARROSEPAISES)
 \item{CARROSEPAISES}{Carrega o banco de dados em portugues. Todavia voc?? precisa escrever data(mtcars) ou data(iris) antes para funcionar e remove(mtcars) para remover o original}
 }
 \value{
-Banco de dados CARROS ou PAISES
+Banco de dados chamados CARROS, PAISES ou WBDATA (Banco de dados do WorldBank - precisa de Internet)
 }
 \description{
 Carrega o banco de dados em portugues
